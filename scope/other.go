@@ -1,9 +1,9 @@
-package main
+package scope
 
 import "fmt"
 
 var z = 16
 
-func printZ() {
+func PrintZ() {
 	fmt.Println(z)
 }
